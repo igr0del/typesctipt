@@ -1,5 +1,6 @@
 import makeOrdinal from './makeOrdinal.js';
 import isFinite from './isFinite.js';
+import isSafeNumber from './isSafeNumber.js';
 
 const TEN: number = 10;
 const ONE_HUNDRED: number = 100;
